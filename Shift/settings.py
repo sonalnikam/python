@@ -27,7 +27,7 @@ SECRET_KEY = '08c85ba2-9efe-4329-85fa-cf029c2d4216'
 DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1']
-ALLOWED_HOSTS = [u'pythonapp-sonam.44fs.preview.openshiftapps.com']
+ALLOWED_HOSTS = [*]
 
 
 # Application definition
